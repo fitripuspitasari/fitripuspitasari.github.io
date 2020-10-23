@@ -1,7 +1,7 @@
 body {
   background-color: #ffc0cb;
   color: #0000cd;
-  font-family: monospace;
+  font-family: cursive;
 }
 
 a:link, a:visited {
@@ -17,7 +17,7 @@ a:hover {
 
 .heading {
   text-align: center;
-  border: 3px solid #e6739f;
+  border: 4px dotted #e6739f;
   padding: 15px;
   border-radius: 10px;
 }
