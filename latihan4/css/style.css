@@ -1,0 +1,97 @@
+body {
+  background-color: #bfba00;
+  color: #fff;
+  font-family: monospace;
+}
+
+a:link, a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff0;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.heading {
+  text-align: center;
+  border: 1px solid;
+  padding: 15px;
+  border-radius: 10px;
+}
+.link {
+  list-style-type:none;
+}
+
+.menu {
+  width: 300px;
+  background-color: #fb0;
+  margin: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  text-align: center;
+}
+
+.gambar-resep {
+  width: 350px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.gradient {
+background: #feccb1; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #feccb1 0%, #f17432 50%, #ea5507 51%,
+#fb955e 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #feccb1 0%,#f17432 50%,#ea5507
+51%,#fb955e 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #feccb1 0%,#f17432 50%,#ea5507 51%,#fb955e
+100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feccb1',
+endColorstr='#fb955e',GradientType=1 );
+}
+
+.blue-gradient {
+background: #d0e4f7; /* Old browsers */
+background: -moz-linear-gradient(45deg, #d0e4f7 0%, #73b1e7 24%, #0a77d5 50%,
+#539fe1 79%, #87bcea 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg, #d0e4f7 0%,#73b1e7 24%,#0a77d5
+50%,#539fe1 79%,#87bcea 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg, #d0e4f7 0%,#73b1e7 24%,#0a77d5 50%,#539fe1
+79%,#87bcea 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0e4f7',
+endColorstr='#87bcea',GradientType=1 );
+}
+
+.blockmenu {
+width: 200px;
+height: 150px;
+list-style: none;
+text-align: center;
+float:left;
+margin: 5px;
+border-radius: 15px;
+background-color: white;
+box-shadow: 3px 3px 5px grey;
+overflow: hidden;
+}
+
+.iconmenu {
+width: 200px;
+height: 110px;
+overflow: hidden;
+}
+
+.iconmenuimg {
+width: 100%;
+}
+
+.textmenu {
+padding: 5px;
+font-size: 20px;
+}

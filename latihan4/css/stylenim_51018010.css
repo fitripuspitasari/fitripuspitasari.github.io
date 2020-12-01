@@ -1,0 +1,41 @@
+body {
+  background-color: #ffc0cb;
+  color: #0000cd;
+  font-family: cursive;
+}
+
+a:link, a:visited {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f08080;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.heading {
+  text-align: center;
+  border: 4px dotted #e6739f;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.link {
+  list-style-type:none;
+}
+
+.menu {
+  width: 300px;
+  background-color: #ee82ee;
+  margin: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  text-align: center;
+}
+
+.gambar-resep {
+  width: 350px;
+}
