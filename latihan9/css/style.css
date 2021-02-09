@@ -6,12 +6,6 @@
  * Made By MaterializeCSS.com
  */
 
-.bluechef {
-  background-color: #0000bf;
-}
-.bluechef-text {
-  color: #0000bf;
-}
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -60,4 +54,11 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+.bluechef {
+background-color: #0000bf;
+}
+.bluechef-text {
+color: #0000bf;
 }
